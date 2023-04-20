@@ -1,0 +1,14 @@
+.historia__imagen{
+    width: 50%;
+    margin: 5% auto;
+}
+.historia__imagen:hover{
+    transform:scale(1.2);
+}
+.historia__imagen--final{
+    width: 15%;
+    margin: 5% auto;
+}
+
+
+

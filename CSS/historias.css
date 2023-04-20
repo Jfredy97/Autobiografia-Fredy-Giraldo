@@ -1,0 +1,7 @@
+.historias{
+    background: #f7f8f9;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5rem 0 0 5rem;
+    justify-content: space-around;
+}
